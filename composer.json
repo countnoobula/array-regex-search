@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "illuminate/support": "^5.6"
+    }
+}
